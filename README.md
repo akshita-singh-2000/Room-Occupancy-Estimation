@@ -36,13 +36,13 @@ Initial exploration of the data involved examining data types, summary statistic
 ## Model Implementation
 The main focus of this project was to build models from scratch. All models were studied in depth, including their underlying conditions, assumptions, and the mathematics behind them. Based on this comprehensive study, we selected three candidate models and built them from scratch without using any libraries.
 
-### Naive Bayes
+### 1. Naive Bayes
 Naive Bayes was chosen for its simplicity and effectiveness in handling categorical data. We used Laplace smoothing to handle zero-frequency issues and computed the parameters of the Gaussian distribution for each class.
 
-### Support Vector Machines (SVM)
+### 2. Support Vector Machines (SVM)
 SVM was used to find the optimal hyperplane separating different classes. We employed gradient descent to optimize the cost function and included regularization to prevent overfitting.
 
-### Logistic Regression
+### 3. Logistic Regression
 Logistic Regression was selected due to the independent and identically distributed nature of our data. We used one-vs-all classification and applied various transformations to handle outliers.
 
 ## Dimensionality Reduction
