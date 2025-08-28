@@ -2,6 +2,8 @@
 
 This repository contains the code and documentation for the Room Occupancy Estimation project. The primary goal of this project is to develop a predictive model for estimating room occupancy using non-intrusive environmental sensors like CO2, temperature, sound, and light sensors. By accurately estimating the number of occupants in a room, energy-saving measures can be implemented, reducing both energy consumption and carbon footprint.
 
+All models are built from scratch without scikit-learn or other high-level ML libraries, focusing on coding the core mathematics and statistics behind each algorithm.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Data Description](#data-description)
