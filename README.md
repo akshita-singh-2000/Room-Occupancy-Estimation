@@ -11,9 +11,6 @@ All models are built from scratch without scikit-learn or other high-level ML li
 - [Model Implementation](#model-implementation)
 - [Dimensionality Reduction](#dimensionality-reduction)
 - [Results and Conclusion](#results-and-conclusion)
-- [Team Members](#team-members)
-- [Instructor](#instructor)
-- [Date](#date)
 
 ## Introduction
 In modern sustainable building management, understanding and optimizing indoor environments for comfort and energy efficiency are crucial objectives. This study focuses on predicting room occupancy using non-intrusive environmental sensors.
